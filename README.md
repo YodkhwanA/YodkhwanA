@@ -7,8 +7,9 @@ I’m interested in various roles, including 2D artist, 3D artist, and animator.
 🖥 **Tool**: Procreate [INSTAGRAM](https://www.instagram.com/byyofu_/), [BLUESKY](https://bsky.app/profile/fu13yo.bsky.social) / Blender, Maya / Davinci Resolve, Capcut [TIKTOK](https://www.tiktok.com/@jorurunna_) / Unity, Unreal<br/>
 <br/>
 
-# .ᐟ Game
-All of these games were created as class projects.
+# .ᐟ Our Game
+All of these games were created as class projects with my university classmates.<br/>
+I primarily worked as a **Game Artist**, handling Animator, UI, and Graphic Design.
 
 [![IJeab!](https://img.shields.io/badge/IJeab-f7c220.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://pistacio-inc.itch.io/ijeab)<br/>
 🕹 2D Side Scroller / Action / Singleplayer<br/>
