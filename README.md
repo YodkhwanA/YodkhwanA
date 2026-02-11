@@ -28,7 +28,9 @@ All of these games were created as class projects.
 ⚙️ Unreal Engine
 
 # .ᐟ.ᐟ My Artworks
-[![FA Vtuber Aoi Cresent](https://img.shields.io/badge/Instagram-DF2D74.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/p/DN5Z642E3Qe/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)<img width="1800" height="1200" alt="IMG_9911" src="https://github.com/user-attachments/assets/7a28d7b0-cd3e-4bd9-8575-29f779073ed6" />
+[![FA Vtuber Aoi Cresent](https://img.shields.io/badge/Instagram-DF2D74.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/p/DN5Z642E3Qe/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+[![FA Vtuber Hyouga Alpha](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/muuuyomun/status/1960314549288231223?s=20)
+<img width="1800" height="1200" alt="IMG_9911" src="https://github.com/user-attachments/assets/7a28d7b0-cd3e-4bd9-8575-29f779073ed6" />
 
 [![To you—my one and only](https://img.shields.io/badge/Bluesky-0085FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/fu13yo.bsky.social/post/3lbtnrkff4k27)<img width="3508" height="2480" alt="แด่เธอ หนึ่งเดียวในใจฉัน" src="https://github.com/user-attachments/assets/dc21bb57-b685-4703-8da9-db22ed1d34c5" />
 
