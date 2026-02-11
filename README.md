@@ -37,7 +37,7 @@ All of these games were created as class projects.
 - **Hobbie:** drawing, read novel, listen music, anime
 
 # 💻 Tech Stack:
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Procreate](https://img.shields.io/badge/procreate-FC4DA5.svg?style=for-the-badge&logo=procreate&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Maya](https://img.shields.io/badge/maya-01AEAC.svg?style=for-the-badge&logo=maya&logoColor=white) ![Davinci Resolve](https://img.shields.io/badge/DavinciResolve-1F3A54.svg?style=for-the-badge&logo=DavinciResolve&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal](https://img.shields.io/badge/unreal-%23000000.svg?style=for-the-badge&logo=unreal&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YodkhwanA&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=YodkhwanA&theme=merko&hide_border=false)<br/>
