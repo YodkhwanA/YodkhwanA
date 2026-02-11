@@ -38,7 +38,7 @@ All of these games were created as class projects.
 <img width="1920" height="1080" alt="IMG_9009 (1)" src="https://github.com/user-attachments/assets/4843a184-6940-42e8-82e0-0e3c576086f2" />
 
 # .ᐟ.ᐟ.ᐟ.ᐟ FunFact
-- I have two name because this one **'Yofu'** is my pen name for Artist and this one **'Yofunni'** is my pen name for Game developer
+- I have two names because this one **'Yofu'** is my pen name for Artist and this one **'Yofunni'** is my pen name for Game developer
 - My mascot is a rabbit ₍⑅ᐢ..ᐢ₎
 - I have two cat
 - I'm macha and thai tea lover 🍵
